@@ -61,8 +61,8 @@ Others: [http://www.papamarkos.gr/index/category/57/](http://www.papamarkos.gr/i
 | Image and Vision Computing | Q1/Q2 |
 | Neuroinformatics | Q1/Q2 |
 | PloS ONE |   |
-| _Neural Networks_ |   |
-| _IEEE Transactions on Cybernetics_ |   |
+| Neural Networks |   |
+| IEEE Transactions on Cybernetics |   |
 | IEEE transactions on neural networks |   |
 | Pattern Recognition |   |
 
@@ -87,7 +87,7 @@ Others: [http://www.papamarkos.gr/index/category/57/](http://www.papamarkos.gr/i
 | [Artificial Intelligence in Medicine](http://www.sciencedirect.com/science/journal/09333657) |   |
 | International Journal of Imaging Systems and Technology | Q2/Q3 |
 | Machine Vision and Applications | 慢/范围较广Q2/Q3 |
-| [_Acta Radiologica_](http://info.sagepub.co.uk/c/145DO3qrgh3TO7lb24tRSldUfHa) | covers all aspects of radiology, from clinical radiology to experimental work |
+| [Acta Radiologica](http://info.sagepub.co.uk/c/145DO3qrgh3TO7lb24tRSldUfHa) | covers all aspects of radiology, from clinical radiology to experimental work |
 | Computerized Medical Imaging and Graphics |   |
 
 # **三 区**
@@ -133,7 +133,7 @@ Others: [http://www.papamarkos.gr/index/category/57/](http://www.papamarkos.gr/i
 | International Journal of Pattern Recognition and Artificial Intelligence | 慢 |
 | Journal of Digital Imaging |   |
 | Bio-Medical Materials and Engineering |   |
-| **JOURNAL OF INTERNATIONAL MEDICAL RESEARCH** |   |
+| JOURNAL OF INTERNATIONAL MEDICAL RESEARCH |   |
 
 
 
