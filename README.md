@@ -1,3 +1,5 @@
+医学图像SCI期刊汇总：
+
 | Title | Impact factor |
 | --- | --- |
 | Brain | 10.870 |
