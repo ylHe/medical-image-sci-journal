@@ -1,4 +1,4 @@
-# 医学图像SCI期刊汇总：
+# 医学图像 SCI期刊&顶会&比赛 汇总：
 
 | Title | Impact factor |
 | --- | --- |
@@ -152,10 +152,8 @@ Mol Divers
 # **顶会**
 
 MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention （每年一届）
-2018
 
 IPMI: Information Processing in Medical Imaging (两年一届)
-2019
 
 # **比赛**
 
@@ -163,7 +161,7 @@ Grand Challenges in Biomedical Image Analysis (经常上新不同的挑战赛)
 
 # **综述**
 
-1.图片语义分割深度学习算法要点回顾
+图片语义分割深度学习算法要点回顾
 
-.222201902-Going Deep in Medical Image Analysis: Concepts, Methods, Challenges and Future Directions
+222201902-Going Deep in Medical Image Analysis: Concepts, Methods, Challenges and Future Directions
 
